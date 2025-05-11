@@ -14,7 +14,7 @@ A Flutter application that allows users to create and save digital signatures. T
 
 ## 🎥 Video Tutorial
 
-Watch the tutorial on YouTube: [Flutter Signature App Tutorial](https://youtube.com/your_video_link)
+Watch the tutorial on YouTube: [Flutter Signature App Tutorial](https://youtu.be/vYqmZhPfxQ4)
 
 ## 🛠️ Built With
 
